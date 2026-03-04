@@ -56,7 +56,7 @@ We'd love to feature your work! Submit your ASMR video to the Tingle Space colle
 - Content is welcoming and inclusive
 - Any format welcome — whispering, tapping, nature sounds, visual ASMR, and more
 
-[→ Submit your video here](#)
+[→ Submit your video here](https://forms.gle/HcwPGeAmeMHPrfgw7)
 
 ---
 
