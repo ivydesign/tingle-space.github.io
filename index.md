@@ -2,6 +2,8 @@
 layout: default
 title: Tingle Space
 ---
+# Tingle Space
+*ASMR for everyone. *
 
 An **autonomous sensory meridian response (ASMR)** is a tingling sensation and pleasant form of paresthesia that usually begins on the scalp and moves down the back of the neck and upper spine. ASMR has been compared with synesthesia and may overlap with frisson.
 
