@@ -22,24 +22,6 @@ Beyond videos, Tingle Space connects you to sleep therapists, relaxation resourc
 
 🌿 [I am an ASMR Enthusiast](enthusiast.md)
 
-- 📋 **Community rules** — important guidelines for making an accessible ASMR video
-- 📚 **Resources for ASMRtists** — don't know where to start? We've got you
-- 🎬 **Contribute your ASMR video** to our collection *(fill out a form)*
-- 🗺️ **Join the network!** — see ASMRtists on our community map
-- ✨ **ASMRtist spotlight stories** — get inspired by fellow creators
-
----
-
-### 🌿 I am an ASMR Enthusiast
-
-- 🎧 **Specify your needs:**
-  - 👂 Listening
-  - 👀 Looking
-  - 🤲 Feeling
-  - 🌀 Just look around
-- 🗺️ **Join the network!** — connect with the community
-- 💌 **Submit your favorite ASMR videos**
-- 📖 **Other resources** — sleep therapists, relaxation tools, and more
 
 ---
 
