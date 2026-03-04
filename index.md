@@ -9,7 +9,7 @@ Tingle Space is a place for **accessible ASMR** — we don't define ASMR in the 
 
 Beyond videos, Tingle Space connects you to sleep therapists, relaxation resources, and a supportive community where everyone can share, learn, and experience ASMR on their own terms.
 
-![description](assets/images/banner.jpg)
+![description](assets/images/ASMR-thumbnail-image.jpg)
 ---
 
 ## Welcome! Please select your preference:
