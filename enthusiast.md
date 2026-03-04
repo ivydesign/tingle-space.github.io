@@ -63,7 +63,7 @@ Find other ASMR enthusiasts, share recommendations, and be part of a supportive 
 
 Found a video that helped you relax, sleep, or feel better? Share it with the community!
 
-[→ Submit a video here](#)
+[→ Submit a video here](https://forms.gle/HcwPGeAmeMHPrfgw7)
 
 ---
 
