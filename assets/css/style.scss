@@ -1,0 +1,69 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ── Pink header banner ── */
+.page-header {
+  background-color: #e8728a;
+  background-image: linear-gradient(135deg, #f2a7b8, #c2547a);
+  color: white;
+}
+
+.page-header .project-name {
+  color: white;
+  font-style: italic;
+}
+
+.page-header .project-tagline {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+/* ── Pink buttons in header ── */
+.btn {
+  background-color: white;
+  color: #c2547a;
+  border-color: white;
+}
+
+.btn:hover {
+  background-color: #fce4ec;
+  color: #a03060;
+}
+
+/* ── Body ── */
+body {
+  background-color: #fff5f7;
+  color: #3d1a26;
+}
+
+/* ── Headings ── */
+h1, h2, h3, h4 {
+  color: #c2547a;
+}
+
+/* ── Links ── */
+a {
+  color: #e07a9b;
+}
+
+a:hover {
+  color: #a03060;
+}
+
+/* ── Main content area ── */
+.main-content {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(194, 84, 122, 0.08);
+}
+
+/* ── Horizontal rules ── */
+hr {
+  border-color: #f2c4d0;
+}
+
+/* ── Bold text ── */
+strong {
+  color: #a03060;
+}
