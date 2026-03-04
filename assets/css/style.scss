@@ -78,3 +78,15 @@ body {
   max-width: 860px;
   padding: 2rem;
 }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap');
+
+body, .main-content {
+  font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+}
