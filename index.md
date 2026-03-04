@@ -4,7 +4,7 @@ title: Tingle Space
 ---
 ---
 <div align="center">
-  <img src="assets/images/yourfilename.jpg" width="500" alt="ASMR image">
+  <img src="assets/images/ASMR-thumbnail-image.jpg" width="500" alt="ASMR image">
 </div>
 
 An **autonomous sensory meridian response (ASMR)** is a tingling sensation and pleasant form of paresthesia that usually begins on the scalp and moves down the back of the neck and upper spine. ASMR has been compared with synesthesia and may overlap with frisson.
