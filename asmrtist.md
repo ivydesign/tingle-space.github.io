@@ -23,7 +23,9 @@ title: For ASMRtists – Tingle Space
 
 Making ASMR accessible means everyone can enjoy your content — regardless of hearing ability, sensory sensitivities, or how they experience ASMR.
 
-- Add captions to all your videos
+- Add captions to all your videos.
+  *Normally a standard caption will look like this: with black background and white font (make sure it's Sans-serif!)*
+  ![close caption example](resources/images/closecap_example)
 - Describe visual elements for viewers with visual impairments
 - Include content warnings for intense sounds or visuals (e.g. crinkling, bright lights)
 - Label your triggers clearly in the title and description
