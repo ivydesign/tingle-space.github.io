@@ -69,6 +69,31 @@ Making ASMR accessible means everyone can enjoy your content — regardless of h
 
 Don't know where to start? We've got you.
 
+✅ Checklist for making an ASMR video:
+
+1. Determine what type of ASMR video you want to make.
+
+*Every ASMR video has a different intended audience — and that's okay. Accessibility is never one-size-fits-all. Just like designing an inclusive space, creating accessible ASMR means making intentional choices about who you're designing for. Before you hit record, think about who you want to prioritize and why.*
+
+1. Determine what type of ASMR video you want to make.
+*Every ASMR video has a different intended audience — and that's okay. Accessibility is never one-size-fits-all. Just like designing an inclusive space, creating accessible ASMR means making intentional choices about who you're designing for. Before you hit record, think about who you want to prioritize and why.*
+
+2. Choose what type of triggers.
+*This is usually the exciting part! You get to choose your props and sounds. Think about whether your triggers are primarily auditory (tapping, crinkling, whispering), visual (slow movements, hand movements, satisfying visuals), or both. Keep your audience in mind! Some triggers may be overwhelming for sensory-sensitive viewers, while others may not work at all without sound.*
+
+3. Set up your space.
+*Your environment matters. Good lighting, a clean background, and minimal background noise all help make your video more accessible and enjoyable. You don't need a fancy studio. A quiet corner with soft lighting works perfectly.*
+
+4. Record your video.
+*Take your time. Slow, intentional movements and a calm pace make ASMR more accessible for everyone. Don't worry about being perfect. Authenticity and warmth are what make ASMR special.*
+
+5. Edit and add captions.
+***Captions are non-negotiable** at Tingle Space. Tools like CapCut and YouTube Studio can auto-generate captions for you — just review them for accuracy before publishing. Below are further instructions.*
+
+6. Write an accessible description and upload.
+*Your description is part of the experience. List your triggers, add a sensory warning if needed, include timestamps, and mention whether captions are available.*
+
+
 - How to record your first ASMR video — beginner's guide
 
 <a href="https://youtu.be/rVeSp25IVGY" target="_blank">
