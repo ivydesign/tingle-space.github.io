@@ -143,10 +143,7 @@ See where fellow creators are based and find collaborators near you.
 - View the ASMRtist map
 - Add yourself to the map — share your name, location, and channel link
 
-<iframe src="[YOUR_GOOGLE_MY_MAPS_EMBED_URL](https://www.google.com/maps/d/edit?mid=1b-QKgTSsk3Mh-VM15j8FfD1wlgVENng&usp=sharing)" 
-  width="70%" height="400" 
-  frameborder="0">
-</iframe>
+<img src="https://www.google.com/maps/d/edit?mid=1b-QKgTSsk3Mh-VM15j8FfD1wlgVENng&usp=sharing" width="100%" alt="ASMRtist Network Map">
 
 [Join the map](https://www.google.com/maps/d/edit?mid=1b-QKgTSsk3Mh-VM15j8FfD1wlgVENng&usp=sharing)
 
