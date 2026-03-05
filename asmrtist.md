@@ -56,13 +56,9 @@ Don't know where to start? We've got you.
 
 - How to record your first ASMR video — beginner's guide
 
-<iframe width="100%" height="400"
-    src="https://youtu.be/rVeSp25IVGY?si=r72zILgmvh5sjT4T"
-    title="ASMR tutorial"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-</iframe>
+<a href="https://youtu.be/rVeSp25IVGY" target="_blank">
+  <img src="https://img.youtube.com/vi/rVeSp25IVGY/0.jpg" width="100%" alt="How to record your first ASMR video">
+</a>
 
 - Best microphones for every budget — gear recommendations
   
@@ -88,33 +84,21 @@ Don't know where to start? We've got you.
   
   - CapCut — auto-captions built in, beginner friendly
 
-<iframe width="100%" height="400"
-    src="https://www.youtube.com/embed/ImKkcOE3y70"
-    title="Capcut tutorial"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-</iframe>
+<a href="https://youtu.be/ImKkcOE3y70" target="_blank">
+  <img src="https://img.youtube.com/vi/ImKkcOE3y70/0.jpg" width="100%" alt="CapCut tutorial">
+</a>
     
   - iMovie — free for Mac users
 
-<iframe width="100%" height="400"
-    src="https://www.youtube.com/embed/jhGG7ypIW_w"
-    title="Imovie tutorial"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-</iframe>
+<a href="https://youtu.be/jhGG7ypIW_w" target="_blank">
+  <img src="https://img.youtube.com/vi/jhGG7ypIW_w/0.jpg" width="100%" alt="iMovie tutorial">
+</a>
     
   - DaVinci Resolve — free, professional grade
 
-<iframe width="100%" height="400"
-    src="https://youtu.be/SrJOE2pEp7A?si=lXMt2NP9hXNAekpn"
-    title="davinci resolve tutorial"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-</iframe>
+<a href="https://youtu.be/SrJOE2pEp7A" target="_blank">
+  <img src="https://img.youtube.com/vi/SrJOE2pEp7A/0.jpg" width="100%" alt="DaVinci Resolve tutorial">
+</a>
     
   - YouTube Studio — auto-captions your videos for free: [Official learning series](https://www.youtube.com/playlist?list=PL_dhPga7ruueWf2DcWvnp3Y9zj-sbZtss)
     
@@ -135,7 +119,6 @@ Don't know where to start? We've got you.
     
   - Add timestamps for different sections so viewers can skip around
 
-- Connect with other ASMRtists — join our community forum
 
 ---
 
