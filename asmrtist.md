@@ -25,8 +25,11 @@ Making ASMR accessible means everyone can enjoy your content — regardless of h
 
 - Add captions to all your videos.
   *Normally a standard caption will look like this: with black background and white font (make sure it's Sans-serif!)*
+  
   [→ Detailed guildline for a CC](https://www.3playmedia.com/blog/closed-caption-styling-formatting-best-practices-you-need-to-know/)
-  ![close caption example](assets/images/closedcap_example.png)
+  
+<img src="assets/images/closedcap_example.png" alt="close caption example" width="50%">
+  
 - Describe visual elements for viewers with visual impairments
 - Include content warnings for intense sounds or visuals (e.g. crinkling, bright lights)
 - Label your triggers clearly in the title and description
