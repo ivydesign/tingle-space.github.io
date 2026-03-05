@@ -11,6 +11,7 @@ title: For ASMRtists – Tingle Space
 ---
 
 ## Contents
+- [💜 ASMR For and By the Disabled Community](#-asmr-for-and-by-the-disabled-community)
 - [Community Rules](#community-rules)
 - [Resources for ASMRtists](#resources-for-asmrtists)
 - [Contribute Your Video](#contribute-your-video)
@@ -18,6 +19,19 @@ title: For ASMRtists – Tingle Space
 - [ASMRtist Spotlight Stories](#asmrtist-spotlight-stories)
 
 ---
+
+## 💜 ASMR For and By the Disabled Community
+
+At Tingle Space, we believe ASMR should be **created and enjoyed by everyone** — including people with disabilities. We actively welcome and celebrate disabled ASMRtists and creators.
+
+**What this means for Tingle Space:**
+- We prioritize featuring disabled creators in our spotlight stories
+- We provide resources specifically for creating ASMR with different abilities
+- We advocate for captions, audio descriptions, and sensory-friendly content
+- We listen to the disabled community on what accessibility actually means
+
+> *"Nothing about us without us."*
+
 
 ## Community Rules
 
