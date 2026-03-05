@@ -153,7 +153,7 @@ Meet the ASMRtists making ASMR more accessible for everyone.
 
 - Spotlight #1 — coming soon
 - Spotlight #2 — coming soon
-- Want to be featured? Apply here
+- Want to be featured? [Apply here](https://forms.gle/fT3SGNx1tVo7YmjG6)
 
 ---
 
