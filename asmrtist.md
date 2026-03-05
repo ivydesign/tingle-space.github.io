@@ -56,30 +56,30 @@ Don't know where to start? We've got you.
 
 - How to record your first ASMR video — beginner's guide
 
-<iframe width="560" height="315"
+<iframe width="315" height="560"
     src="https://www.youtube.com/embed/xqGpBY934_w"
     title="ASMR tutorial"
     frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
 </iframe>
 
 - Best microphones for every budget — gear recommendations
-  [1. Tiny microphones (~ $30) - perfect for lo-fi!](https://www.amazon.com/tiny-microphone/s?k=tiny+microphone)
   
-  <img src="assets/images/tinymics.webp" alt="close caption example" width="50%">
+  1. [Tiny microphones (~ $30) - perfect for lo-fi!](https://www.amazon.com/tiny-microphone/s?k=tiny+microphone)
   
-  [2. The classic Blue Yeti (~ $70)](https://www.amazon.com/s?k=blue+yet&crid=3AG3RGOEYNC7Q&sprefix=blue+yet%2Caps%2C191&ref=nb_sb_noss_2)
+  <img src="assets/images/tinymics.webp" alt="close caption example" width="30%">
   
-  <img src="assets/images/blueyeti.jpg" alt="close caption example" width="50%">
+  2. [The classic Blue Yeti (~ $70)](https://www.amazon.com/s?k=blue+yet&crid=3AG3RGOEYNC7Q&sprefix=blue+yet%2Caps%2C191&ref=nb_sb_noss_2)
   
-  [3. Tascam (~ $200) - portable and good sounds!](https://www.amazon.com/s?k=tascam&crid=4TI0HEWF2P0D&sprefix=tascam%2Caps%2C203&ref=nb_sb_noss_1)
+  <img src="assets/images/blueyeti.jpg" alt="close caption example" width="30%">
   
-  <img src="assets/images/tascam.webp" alt="close caption example" width="50%">
+  3. [Tascam (~ $200) - portable and good sounds!](https://www.amazon.com/s?k=tascam&crid=4TI0HEWF2P0D&sprefix=tascam%2Caps%2C203&ref=nb_sb_noss_1)
   
-  [4. 3Dio mic ($200 - $2,000) - ears-like, and can really catch the sounds](https://3diosound.com/collections/microphones?srsltid=AfmBOopiVMv1eFaCBTW4hfdOJHUyBsswxkvsomGc1n1yD_9sSp6QR8wh)
+  <img src="assets/images/tascam.webp" alt="close caption example" width="30%">
   
-  <img src="assets/images/3dio.webp" alt="close caption example" width="50%">
+  4. [3Dio mic ($200 - $2,000) - ears-like, and can really catch the sounds](https://3diosound.com/collections/microphones?srsltid=AfmBOopiVMv1eFaCBTW4hfdOJHUyBsswxkvsomGc1n1yD_9sSp6QR8wh)
+  
+  <img src="assets/images/3dio.webp" alt="close caption example" width="30%">
   
   5. Bear in mind that we are Tingle Space - actually, whatever gears you like can work. And there will always be people who enjoy your videos! <3
 
