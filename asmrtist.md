@@ -30,12 +30,23 @@ Making ASMR accessible means everyone can enjoy your content — regardless of h
   
 <img src="assets/images/closedcap_example.png" alt="close caption example" width="50%">
   
-- Describe visual elements for viewers with visual impairments
+- In your video description, describe visual elements for viewers with visual impairments.
+
+
 - Include content warnings for intense sounds or visuals (e.g. crinkling, bright lights)
+
+  
 - Label your triggers clearly in the title and description
+
+  
 - Avoid sudden loud sounds without warning
+
+  
 - Be mindful of sensory overload — offer gentle, varied pacing
+
+  
 - Respect all forms of ASMR — tingles look different for everyone
+  
 
 ---
 
