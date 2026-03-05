@@ -56,8 +56,8 @@ Don't know where to start? We've got you.
 
 - How to record your first ASMR video — beginner's guide
 
-<iframe width="315" height="560"
-    src="https://youtu.be/xqGpBY934_w?si=6jtL2rrCVCkwLQfp"
+<iframe width="100%" height="400"
+    src="https://youtu.be/rVeSp25IVGY?si=r72zILgmvh5sjT4T"
     title="ASMR tutorial"
     frameborder="0"
     allowfullscreen>
@@ -86,16 +86,34 @@ Don't know where to start? We've got you.
 - Free editing tools — software to get started
   
   - CapCut — auto-captions built in, beginner friendly
+ 
+<iframe width="100%" height="400"
+    src="https://www.youtube.com/embed/ImKkcOE3y70"
+    title="Capcut tutorial"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
     
   - iMovie — free for Mac users
+
+<iframe width="100%" height="400"
+    src="https://www.youtube.com/embed/jhGG7ypIW_w"
+    title="Imovie tutorial"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
     
   - DaVinci Resolve — free, professional grade
+
+<iframe width="100%" height="400"
+    src="https://youtu.be/SrJOE2pEp7A?si=lXMt2NP9hXNAekpn"
+    title="davinci resolve tutorial"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
     
-  - Clipchamp — free for Windows users
+  - YouTube Studio — auto-captions your videos for free: [Official learning series](https://www.youtube.com/playlist?list=PL_dhPga7ruueWf2DcWvnp3Y9zj-sbZtss)
     
-  - Kapwing — free online, great for adding captions
-    
-  - YouTube Studio — auto-captions your videos for free
     
 - How to write accessible video descriptions
   
