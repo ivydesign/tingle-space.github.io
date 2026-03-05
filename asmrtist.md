@@ -55,6 +55,13 @@ Making ASMR accessible means everyone can enjoy your content — regardless of h
 Don't know where to start? We've got you.
 
 - How to record your first ASMR video — beginner's guide
+
+  <iframe width="560" height="315" 
+  src="https://youtube.com/shorts/xqGpBY934_w?si=vcqlT_FcXDlhsbFK" 
+  title="ASMR tutorial" 
+  allowfullscreen>
+</iframe>
+
 - Best microphones for every budget — gear recommendations
 - Free editing tools — software to get started
 - How to write accessible video descriptions
