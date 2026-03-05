@@ -75,23 +75,27 @@ Don't know where to start? We've got you.
 
 *Every ASMR video has a different intended audience — and that's okay. Accessibility is never one-size-fits-all. Just like designing an inclusive space, creating accessible ASMR means making intentional choices about who you're designing for. Before you hit record, think about who you want to prioritize and why.*
 
-1. Determine what type of ASMR video you want to make.
-*Every ASMR video has a different intended audience — and that's okay. Accessibility is never one-size-fits-all. Just like designing an inclusive space, creating accessible ASMR means making intentional choices about who you're designing for. Before you hit record, think about who you want to prioritize and why.*
-
 2. Choose what type of triggers.
+   
 *This is usually the exciting part! You get to choose your props and sounds. Think about whether your triggers are primarily auditory (tapping, crinkling, whispering), visual (slow movements, hand movements, satisfying visuals), or both. Keep your audience in mind! Some triggers may be overwhelming for sensory-sensitive viewers, while others may not work at all without sound.*
 
 3. Set up your space.
+
 *Your environment matters. Good lighting, a clean background, and minimal background noise all help make your video more accessible and enjoyable. You don't need a fancy studio. A quiet corner with soft lighting works perfectly.*
 
 4. Record your video.
+
 *Take your time. Slow, intentional movements and a calm pace make ASMR more accessible for everyone. Don't worry about being perfect. Authenticity and warmth are what make ASMR special.*
 
 5. Edit and add captions.
 ***Captions are non-negotiable** at Tingle Space. Tools like CapCut and YouTube Studio can auto-generate captions for you — just review them for accuracy before publishing. Below are further instructions.*
 
 6. Write an accessible description and upload.
+
 *Your description is part of the experience. List your triggers, add a sensory warning if needed, include timestamps, and mention whether captions are available.*
+
+
+---
 
 
 - How to record your first ASMR video — beginner's guide
@@ -99,6 +103,10 @@ Don't know where to start? We've got you.
 <a href="https://youtu.be/rVeSp25IVGY" target="_blank">
   <img src="https://img.youtube.com/vi/rVeSp25IVGY/0.jpg" width="50%" alt="How to record your first ASMR video">
 </a>
+
+
+---
+
 
 - Best microphones for every budget — gear recommendations
   
@@ -119,6 +127,10 @@ Don't know where to start? We've got you.
   <img src="assets/images/3dio.webp" alt="close caption example" width="30%">
   
   5.Bear in mind that we are Tingle Space - actually, whatever gears you like can work. And there will always be people who enjoy your videos! <3
+
+
+---
+
 
 - Free editing tools — software to get started
   
@@ -142,6 +154,9 @@ Don't know where to start? We've got you.
     
   - YouTube Studio — auto-captions your videos for free: [Official learning series](https://www.youtube.com/playlist?list=PL_dhPga7ruueWf2DcWvnp3Y9zj-sbZtss)
     
+
+---
+
     
 - How to write accessible video descriptions
   
