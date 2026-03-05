@@ -60,6 +60,7 @@ Don't know where to start? We've got you.
     src="https://youtu.be/rVeSp25IVGY?si=r72zILgmvh5sjT4T"
     title="ASMR tutorial"
     frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
 </iframe>
 
@@ -86,11 +87,12 @@ Don't know where to start? We've got you.
 - Free editing tools — software to get started
   
   - CapCut — auto-captions built in, beginner friendly
- 
+
 <iframe width="100%" height="400"
     src="https://www.youtube.com/embed/ImKkcOE3y70"
     title="Capcut tutorial"
     frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
 </iframe>
     
@@ -100,6 +102,7 @@ Don't know where to start? We've got you.
     src="https://www.youtube.com/embed/jhGG7ypIW_w"
     title="Imovie tutorial"
     frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
 </iframe>
     
@@ -109,6 +112,7 @@ Don't know where to start? We've got you.
     src="https://youtu.be/SrJOE2pEp7A?si=lXMt2NP9hXNAekpn"
     title="davinci resolve tutorial"
     frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
 </iframe>
     
