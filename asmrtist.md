@@ -56,10 +56,12 @@ Don't know where to start? We've got you.
 
 - How to record your first ASMR video — beginner's guide
 
-  <iframe width="560" height="315" 
-  src="https://youtube.com/shorts/xqGpBY934_w?si=vcqlT_FcXDlhsbFK" 
-  title="ASMR tutorial" 
-  allowfullscreen>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/xqGpBY934_w"
+    title="ASMR tutorial"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
 </iframe>
 
 - Best microphones for every budget — gear recommendations
