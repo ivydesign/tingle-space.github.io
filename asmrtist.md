@@ -160,7 +160,7 @@ See where fellow creators are based and find collaborators near you.
 - View the ASMRtist map
 - Add yourself to the map — share your name, location, and channel link
 
-[→ View the map](#)
+[→ View the map](https://www.google.com/maps/d/edit?mid=1b-QKgTSsk3Mh-VM15j8FfD1wlgVENng&usp=sharing)
 
 ---
 
