@@ -57,7 +57,7 @@ Don't know where to start? We've got you.
 - How to record your first ASMR video — beginner's guide
 
 <iframe width="315" height="560"
-    src="https://www.youtube.com/embed/xqGpBY934_w"
+    src="https://youtu.be/xqGpBY934_w?si=6jtL2rrCVCkwLQfp"
     title="ASMR tutorial"
     frameborder="0"
     allowfullscreen>
