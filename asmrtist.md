@@ -25,6 +25,7 @@ title: For ASMRtists – Tingle Space
 At Tingle Space, we believe ASMR should be **created and enjoyed by everyone** — including people with disabilities. We actively welcome and celebrate disabled ASMRtists and creators.
 
 **What this means for Tingle Space:**
+- We follow the 10 principles of [disability justice](https://sinsinvalid.org/10-principles-of-disability-justice/). 
 - We prioritize featuring disabled creators in our spotlight stories
 - We provide resources specifically for creating ASMR with different abilities
 - We advocate for captions, audio descriptions, and sensory-friendly content
