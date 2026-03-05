@@ -84,8 +84,35 @@ Don't know where to start? We've got you.
   5.Bear in mind that we are Tingle Space - actually, whatever gears you like can work. And there will always be people who enjoy your videos! <3
 
 - Free editing tools — software to get started
+  
+  - CapCut — auto-captions built in, beginner friendly
+    
+  - iMovie — free for Mac users
+    
+  - DaVinci Resolve — free, professional grade
+    
+  - Clipchamp — free for Windows users
+    
+  - Kapwing — free online, great for adding captions
+    
+  - YouTube Studio — auto-captions your videos for free
+    
 - How to write accessible video descriptions
-- Caption tools and services — free and paid options
+  
+  - Start with a one-sentence summary of what happens in the video
+    
+  - List all triggers clearly (e.g. tapping, whispering, crinkling)
+    
+  - Mention any bright lights, sudden sounds, or intense visuals as warnings
+    
+  - Include a full transcript or link to one
+    
+  - Describe the visual setting (e.g. "soft lighting, close-up hand movements")
+    
+  - Note the language spoken and whether captions are available
+    
+  - Add timestamps for different sections so viewers can skip around
+
 - Connect with other ASMRtists — join our community forum
 
 ---
