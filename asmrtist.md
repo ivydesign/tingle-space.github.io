@@ -91,7 +91,8 @@ Don't know where to start? We've got you.
 *Take your time. Slow, intentional movements and a calm pace make ASMR more accessible for everyone. Don't worry about being perfect. Authenticity and warmth are what make ASMR special.*
 
 **5. Edit and add captions.**
-***Captions are non-negotiable** at Tingle Space. Tools like CapCut and YouTube Studio can auto-generate captions for you — just review them for accuracy before publishing. Below are further instructions.*
+
+*<u>Captions are non-negotiable</u> at Tingle Space. Tools like CapCut and YouTube Studio can auto-generate captions for you — just review them for accuracy before publishing. Below are further instructions.*
 
 **6. Write an accessible description and upload.**
 
