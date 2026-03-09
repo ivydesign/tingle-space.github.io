@@ -2,6 +2,8 @@
 
 ## 💬 Leave a Comment
 
+[← Back to Home](index.md)
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
