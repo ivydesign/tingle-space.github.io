@@ -23,6 +23,7 @@ Put on headphones, close your eyes, and listen carefully.
 
 ## 🎧 Find Content for Your Needs
 *Tell us how you experience ASMR and we'll point you in the right direction*
+
 *YouTube currently includes ads between videos. You can support our community by uploading videos yourself so they can be played here ad-free.*
 
 ### 👂 Listening
@@ -82,8 +83,13 @@ Found a video that helped you relax, sleep, or feel better? Share it with the co
 - 🛌 [Sleep therapist directory — find a professional near you](https://www.psychologytoday.com/us/therapists/sleep)
 - 🧘 [Relaxation techniques — breathing, grounding, and more](https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response)
 - 🧠 [Understanding ASMR — research, articles, and explainers](https://en.wikipedia.org/wiki/ASMR)
-- 💬 [Community forum — ask questions, share experiences](community.md)
 - 🆘 [Sensory support resources — for neurodivergent and sensory-sensitive folks](https://autisticadvocacy.org/resources/)
+
+---
+
+##💬 Community forum — ask questions, share experiences
+
+[Share your thoughts here!](community.md)
 
 ---
 
