@@ -87,7 +87,7 @@ Found a video that helped you relax, sleep, or feel better? Share it with the co
 
 ---
 
-##💬 Community forum — ask questions, share experiences
+## 💬 Community forum — ask questions, share experiences
 
 [Share your thoughts here!](community.md)
 
