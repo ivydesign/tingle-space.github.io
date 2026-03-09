@@ -216,6 +216,12 @@ Meet the ASMRtists making ASMR more accessible for everyone.
 
 ---
 
+##💬 Community forum — ask questions, share experiences
+
+[Share your thoughts here!](community.md)
+
+---
+
 [← Back to Home](index.md)
 
 *Tingle Space — ASMR for every mind. Made with care. 🤎*
