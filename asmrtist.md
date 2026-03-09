@@ -185,6 +185,8 @@ Don't know where to start? We've got you.
 
 We'd love to feature your work! Submit your ASMR video to the Tingle Space collection.
 
+*YouTube currently includes ads between videos. You can support our community by uploading videos yourself so they can be played here ad-free.*
+
 **What we look for:**
 - Captions or transcript included
 - Triggers clearly labeled
