@@ -1,6 +1,6 @@
 ---
 layout: default
-title: For ASMR Enthusiasts – Tingle Space
+title: For ASMR Enthusiasts - Tingle Space
 ---
 
 # 🌿 For ASMR Enthusiasts
@@ -54,7 +54,7 @@ You seek content that evokes a physical sense of calm — tingles, warmth, or a 
 - [Personal attention ASMR](https://www.youtube.com/results?search_query=personal+attention+asmr)
 - [Roleplay and comfort ASMR](https://www.youtube.com/results?search_query=roleplay+asmr)
 - [Guided relaxation videos](https://www.youtube.com/results?search_query=asmr+relax+guided)
-- [Our collection (coming soon!)](#)
+- [Our community collection (coming soon!)](#)
 
 ---
 
@@ -82,11 +82,11 @@ Found a video that helped you relax, sleep, or feel better? Share it with the co
 
 - 🛌 [Sleep therapist directory — find a professional near you](https://www.psychologytoday.com/us/therapists/sleep)
 - 🧘 [Relaxation techniques — breathing, grounding, and more](https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response)
-- 🧠 [Understanding ASMR — research, articles, and explainers](https://en.wikipedia.org/wiki/ASMR)
+- 🧠 [Understanding ASMR - research, articles, and explainers](https://en.wikipedia.org/wiki/ASMR)
 
 ---
 
-## 💬 Community forum — ask questions, share experiences
+## 💬 Community forum - ask questions, share experiences
 
 [Share your thoughts here!](community.md)
 
@@ -94,4 +94,4 @@ Found a video that helped you relax, sleep, or feel better? Share it with the co
 
 [← Back to Home](index.md)
 
-*Tingle Space — ASMR for every mind. Made with care. 🤎*
+*Tingle Space - ASMR for every mind. Made with care. 🤎*
