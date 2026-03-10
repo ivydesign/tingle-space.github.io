@@ -83,7 +83,6 @@ Found a video that helped you relax, sleep, or feel better? Share it with the co
 - 🛌 [Sleep therapist directory — find a professional near you](https://www.psychologytoday.com/us/therapists/sleep)
 - 🧘 [Relaxation techniques — breathing, grounding, and more](https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response)
 - 🧠 [Understanding ASMR — research, articles, and explainers](https://en.wikipedia.org/wiki/ASMR)
-- 🆘 [Sensory support resources — for neurodivergent and sensory-sensitive folks](https://autisticadvocacy.org/resources/)
 
 ---
 
